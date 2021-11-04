@@ -1,1 +1,5 @@
 1st document
+<<<<<<< HEAD
+=======
+1st conflict 
+>>>>>>> 5a388c4 (test conflict)
