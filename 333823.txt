@@ -1,9 +1,13 @@
 1st document
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 1st conflict 
 >>>>>>> 5a388c4 (test conflict)
 =======
 conflict
 >>>>>>> 3afa1db (Druga modyfikacja pliku)
+=======
+other conflict
+>>>>>>> b45a09b (upoload)
