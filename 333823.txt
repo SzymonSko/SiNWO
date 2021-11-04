@@ -1,5 +1,9 @@
 1st document
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 1st conflict 
 >>>>>>> 5a388c4 (test conflict)
+=======
+conflict
+>>>>>>> 3afa1db (Druga modyfikacja pliku)
