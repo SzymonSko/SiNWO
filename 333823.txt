@@ -1,4 +1,20 @@
 1st document
+<<<<<<< HEAD
 1st conflict
 1st branch edit
 graph edit conflict from desktop by main
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+1st conflict 
+>>>>>>> 5a388c4 (test conflict)
+=======
+conflict
+>>>>>>> 3afa1db (Druga modyfikacja pliku)
+=======
+other conflict
+>>>>>>> b45a09b (upoload)
+gsddscvn
+>>>>>>> a436d81ee5c5f8b4b7b0280414e117546ff0e340
